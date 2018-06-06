@@ -1,0 +1,3 @@
+Pierwsza linia kodu DLL
+Druga linia kodu DLL
+Trzecia linia kodu DLL
